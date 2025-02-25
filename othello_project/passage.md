@@ -1,5 +1,5 @@
-<h1 style="font-family: 'Times New Roman', serif; padding-top: 30px; padding-bottom: 0px;"><strong>Othello: Losing Sleep</strong></h1>
-<div style="font-size: 18px;">
+<h1 style="font-family: 'Times New Roman', serif; margin-top: 30px; margin-bottom: 10px;"><strong>Othello: Losing Sleep</strong></h1>
+<div style="font-size: 16px;">
     <h3 style="font-family: 'Times New Roman', serif;">Max Scholle's Digital Annotation Essay</h3>
     <h3 style="font-family: 'Times New Roman', serif;"><em>Othello Act III Scene 3, lines 370-419</em></h3>
 </div>
@@ -10,24 +10,24 @@ IAGO</br>
 &emsp; Are to the jealous confirmations strong</br>
 &emsp; As proofs of holy writ. This may do something.</br>
 &emsp; The Moor already changes with my poison;</br>
-&emsp; Dangerous conceits are in their natures poisons,</br>
-&emsp; Which at the first are scarce found to distaste,</br>
+&emsp; Dangerous ==conceits=={description="conceptions, ideas"} are in their natures poisons,</br>
+&emsp; Which at the first ==are scarce found to distaste=={description="scarcely offend the taste"},</br>
 &emsp; But with a little act upon the blood</br>
-&emsp; Burn like the mines of sulfur.</br>
+&emsp; Burn like the ==mines of sulfur=={Q2255396}.</br>
 </br>
 _Enter Othello._</br>
 </br>
 &emsp; I did say so.</br>
-&emsp; Look where he comes. Not poppy nor mandragora</br>
-&emsp; Nor all the drowsy syrups of the world</br>
+&emsp; Look where he comes. Not ==poppy=={Q46452} nor ==mandragora=={Q2651366}</br>
+&emsp; Nor all the ==drowsy syrups=={description="References poppy and madragora, from which narcotic syrups are sourced"} of the world</br>
 &emsp; Shall ever medicine thee to that sweet sleep</br>
-&emsp; Which thou owedst yesterday.</br>
+&emsp; Which thou ==owedst=={description="had, experienced"} yesterday.</br>
 OTHELLO  Ha, ha, false to me?</br>
 IAGO </br>
 &emsp; Why, how now, general? No more of that!</br>
 OTHELLO </br>
-&emsp; Avaunt! Begone! Thou hast set me on the rack.</br>
-&emsp; I swear ’tis better to be much abused</br>
+&emsp; ==Avaunt!=={description="Word used to send away witches and devils"} Begone! Thou hast set me on ==the rack=={Q1351382}.</br>
+&emsp; I swear ’tis better to be much ==abused=={description="deceived"}</br>
 &emsp; Than but to know ’t a little.</br>
 IAGO  How now, my lord?</br>
 OTHELLO </br>
