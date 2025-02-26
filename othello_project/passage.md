@@ -40,18 +40,18 @@ OTHELLO </br>
 &emsp; Let him not know ’t, and he’s not robbed at all.</br>
 IAGO  I am sorry to hear this.</br>
 OTHELLO </br>
-&emsp; I had been happy if the general camp,</br>
-&emsp; Pioners and all, had tasted her sweet body,</br>
-&emsp; So I had nothing known. O, now, forever</br>
+&emsp; I had been happy if ==the general camp=={description="the whole army"},</br>
+&emsp; ==Pioners=={Q13393921} and all, had tasted her sweet body,</br>
+&emsp; ==So=={description="so long as"} I had nothing known. O, now, forever</br>
 &emsp; Farewell the tranquil mind! Farewell content!</br>
 &emsp; Farewell the plumèd troops and the big wars</br>
 &emsp; That makes ambition virtue! O, farewell!</br>
-&emsp; Farewell the neighing steed and the shrill trump,</br>
+&emsp; Farewell the neighing steed and the shrill ==trump=={Q8338},</br>
 &emsp; The spirit-stirring drum, th’ ear-piercing fife,</br>
-&emsp; The royal banner, and all quality,</br>
-&emsp; Pride, pomp, and circumstance of glorious war!</br>
-&emsp; And O you mortal engines, whose rude throats</br>
-&emsp; Th’ immortal Jove’s dread clamors counterfeit,</br>
+&emsp; The ==royal=={description="splendid"} banner, and all quality,</br>
+&emsp; ==Pride, pomp, and circumstance=={description="proud display"} of glorious war!</br>
+&emsp; And O you ==mortal engines=={Q81103}, whose rude throats</br>
+&emsp; Th’ immortal ==Jove=={Q4649}’s ==dread clamors=={description="Jove's thunder"} ==counterfeit=={description="in other words, the cannons imitate Jove's thunder"},</br>
 &emsp; Farewell! Othello’s occupation’s gone!</br>
 IAGO  Is ’t possible, my lord?</br>
 OTHELLO </br>
@@ -63,6 +63,6 @@ OTHELLO </br>
 IAGO  Is ’t come to this?</br>
 OTHELLO </br>
 &emsp; Make me to see ’t, or at the least so prove it</br>
-&emsp; That the probation bear no hinge nor loop</br>
+&emsp; That the ==probation=={description="proof"} bear no hinge nor loop</br>
 &emsp; To hang a doubt on, or woe upon thy life!</br>
 </span>
