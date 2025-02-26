@@ -8,7 +8,7 @@
 <span style="font-family: 'Times New Roman', serif;">
 IAGO</br>
 &emsp; And let him find it. ==Trifles=={description="trivial things"} light as air 🌬️</br>
-&emsp; Are to the <span style="color:green;">jealous</span> confirmations strong</br>
+&emsp; Are to the <span style="color:green;">jealous</span> confirmations strong 💪</br>
 &emsp; As proofs of ==holy writ=={Q1845} ⛪️. This may do something.</br>
 &emsp; The Moor already changes with my <span style="background-color:#FFAAFF;">poison ☠️</span>;</br>
 &emsp; <span style="color:red;">Dangerous</span> ==conceits=={description="conceptions, ideas"} 😈 are in their natures <span style="background-color:#FFAAFF;">poisons ☠️</span>,</br>
@@ -25,7 +25,7 @@ _Enter Othello._</br>
 &emsp; Which thou ==owedst=={description="had, experienced"} yesterday.</br>
 OTHELLO  Ha, ha, false to me? 😡</br>
 IAGO </br>
-&emsp; Why, how now, general? No more of that! 🤷‍♂️</br>
+&emsp; Why, how now, general? 🤷‍♂️ No more of that!</br>
 OTHELLO </br>
 &emsp; ==Avaunt!=={description="Word used to send away witches and devils"} Begone! Thou hast set me on ==the rack=={Q1351382}. 😵</br>
 &emsp; I swear ’tis better to be much ==abused=={description="deceived"}</br>
@@ -35,7 +35,7 @@ OTHELLO </br>
 &emsp; What sense had I of her stol’n hours of lust?</br>
 &emsp; I saw ’t not, thought it not; it harmed not me.</br>
 &emsp; I slept the next night well, fed well, was free 😇 and</br>
-&emsp; merry. ☺️</br>
+&emsp;&emsp; merry. ☺️</br>
 &emsp; I found not Cassio’s kisses 💋 on her lips.</br>
 &emsp; <strong>He that is robbed, not wanting what is stol’n,</br>
 &emsp; Let him not know ’t, and he’s not robbed at all.</strong></br>
