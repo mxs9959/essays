@@ -47,8 +47,8 @@ OTHELLO </br>
 &emsp; <span style="color:orange;">Farewell</span> the tranquil mind! <span style="color:orange;">Farewell</span> content!</br>
 &emsp; <span style="color:orange;">Farewell</span> the plumèd troops and the big wars ⚔️</br>
 &emsp; That makes ambition virtue 🧭! O, <span style="color:orange;">farewell</span>!</br>
-&emsp; <span style="color:orange;">Farewell</span> the neighing steed and the shrill ==trump=={Q8338} 🎺,</br>
-&emsp; The spirit-stirring drum 🥁, th’ ear-piercing ==fife=={Q2255516} 🪈,</br>
+&emsp; <span style="color:orange;">Farewell</span> the neighing steed and the <span style="color:red;">shrill</span> ==trump=={Q8338} 🎺,</br>
+&emsp; The <span style="color:red;">spirit-stirring</span> drum 🥁, th’ <span style="color:red;">ear-piercing</span> ==fife=={Q2255516} 🪈,</br>
 &emsp; The ==royal=={description="splendid"} banner, and all quality,</br>
 &emsp; ==Pride, pomp, and circumstance=={description="proud display"} 🎉 of glorious war!</br>
 &emsp; And ==O you=={description="literary device: apostrophe"} ==mortal engines=={Q81103}, whose rude throats</br>
