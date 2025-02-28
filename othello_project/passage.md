@@ -69,7 +69,7 @@ OTHELLO </br>
 &emsp; I slept the next night well, fed well, was free 😇 and</br>
 &emsp;&emsp; merry. ☺️</br>
 &emsp; I found not ==Cassio=={Q6829164}’s kisses 💋 on her lips.</br>
-&emsp; <strong>He that is <span style="color:green;">robbed</span>, not wanting what is stol’n,</br>
+&emsp; <strong>He that is <span style="color:green;">robbed</span>, not wanting what is <span style="color:green;">stol’n</span>,</br>
 &emsp; Let him not know ’t, and he’s not <span style="color:green;">robbed</span> at all.</strong></br>
 </span>
 <p class="comment"><i>The above pair of lines, I believe, reflects the essence of this excerpt. Through Othello, Shakespeare points out how ignorance, or "not wanting what is stol'n," is a more peaceful state of existence than being aware of a crime, so even if a person "is robbed," ignorance cannot be told apart from the case in which "he's not robbed at all."</i></p>
@@ -101,7 +101,7 @@ OTHELLO </br>
 <span class="main">
 IAGO  Is ’t possible, my lord?</br>
 OTHELLO </br>
-&emsp; Villain, be sure thou prove my love 💖 a whore!</br>
+&emsp; Villain, be sure thou prove <span style="color:green;">my</span> love 💖 a whore!</br>
 &emsp; Be sure of it. Give me the ocular 👀 proof,</br>
 &emsp; Or, by the worth of mine eternal soul,</br>
 &emsp; Thou hadst been better have been born a dog</br>
