@@ -115,5 +115,5 @@ OTHELLO </br>
 &emsp; That the ==probation=={description="proof"} bear no hinge nor loop</br>
 &emsp; To hang a doubt on, or woe 😫 upon thy life!</br>
 </span>
-<p class="comment"><i>Shakespeare foreshadows Iago's execution by mentioning "hinge," "loop," and "hanging," which are the essential parts of the gallows. See the hinge and loop in the below image. The fact that Othello references a hanging suggests that he and Iago are at war, and neither will come out alive. In fact, as Jordan suggests in his essay, Othello's adherence to his values compel him to suicide due to his wrongful murder of his wife.<sup>1</sup></i></p>
+<p class="comment"><i>Shakespeare foreshadows Iago's execution by mentioning "hinge," "loop," and "hanging," which are the essential parts of the gallows. See the hinge and loop in the image to the right. The fact that Othello references a hanging suggests that he and Iago are at war, and neither will come out alive. In fact, as Jordan suggests in his essay, Othello commits suicide out of adherence to his values because he needed to punish himself for wrongfully murdering his wife.<sup>1</sup></i></p>
 <span class="main"><sup>1</sup>View Hoover H. Jordan's essay on <a href="https://www.jstor.org/stable/2866422">JStor</a></span>
