@@ -46,7 +46,7 @@ _Enter ==Othello=={Q1966171}._</br>
 <span class="main">
 &emsp; I did say so.</br>
 &emsp; Look where he comes. Not <span style="background-color:#FFAAFF;">==poppy=={Q46452}</span> nor <span style="background-color:#FFAAFF;">==mandragora=={Q2651366} </span></br>
-&emsp; Nor all the <span style="background-color:#FFAAFF;">==drowsy 🙃 syrups=={description="References poppy and madragora, from which narcotic syrups are sourced"}</span> of the world</br>
+&emsp; Nor all the <span style="background-color:#FFAAFF;">==drowsy 🙃 syrups=={description="References poppy and mandragora, from which narcotic syrups are sourced"}</span> of the world</br>
 </span>
 <p class="comment"><i>In <a href="https://www.folger.edu/explore/shakespeares-works/othello/read/1/3/#line-1.3.74">Act I, Scene 3</a>, Iago prompts Brabantio to accuse Othello of using narcotics to seduce Desdemona. Now, Iago intends to similarly manipulate Othello as he compares his words to narcotics. Look for Iago's references to narcotics with <span style="background-color:#FFAAFF;">purple highlight</span>!</i></p>
 <span class="main">
@@ -115,5 +115,5 @@ OTHELLO </br>
 &emsp; That the ==probation=={description="proof"} bear no hinge nor loop</br>
 &emsp; To hang a doubt on, or woe 😫 upon thy life!</br>
 </span>
-<p class="comment"><i>Shakespeare foreshadows Iago's execution by mentioning "hinge," "loop," and "hanging," which are the essential parts of the gallows. See the hinge and loop in the image to the right. The fact that Othello references a hanging suggests that he and Iago are at war, and neither will come out alive. In fact, as Jordan suggests in his essay, Othello commits suicide out of adherence to his values because he needed to punish himself for wrongfully murdering his wife.<sup>1</sup></i></p>
+<p class="comment"><i>Shakespeare foreshadows Iago's execution by mentioning "hinge," "loop," and "hanging," which are the essential parts of the gallows. See the hinge (on the trapdoor) and loop in the image to the right. The fact that Othello references a hanging suggests that he and Iago are at war, and neither will come out alive. Furthermore, Jordan suggests in his essay that Othello committed suicide out of adherence to his values because he needed to punish himself for wrongfully murdering his wife. Hanging serves as a punishment, so Othello's reference to hanging fits Jordan's interpretation.<sup>1</sup></i></p>
 <span class="main"><sup>1</sup>View Hoover H. Jordan's essay on <a href="https://www.jstor.org/stable/2866422">JStor</a></span>
